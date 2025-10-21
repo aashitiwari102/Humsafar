@@ -1,6 +1,8 @@
 # Humsafar
 
-A React Native Expo application.
+Humsafar addresses the problem of tourist safety through a multimodal AI-powered mobile and web 
+application. It combines AI, Blockchain, Geo-fencing, and GPS tracking to offer secure, real-time protection 
+for travellers.
 
 ## Prerequisites
 
