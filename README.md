@@ -1,8 +1,10 @@
 # Humsafar
 
-Humsafar addresses the problem of tourist safety through a multimodal AI-powered mobile and web 
-application. It combines AI, Blockchain, Geo-fencing, and GPS tracking to offer secure, real-time protection 
-for travellers.
+Humsafar is a multimodal AI-powered mobile and web app that enhances tourist safety using AI, Blockchain, Geo-fencing, and GPS tracking.
+
+Each traveller gets a blockchain-based digital ID to securely store essential documents. The system employs AI-driven anomaly detection and real-time monitoring to calculate a Tourist Safety Score. In emergencies, a one-tap panic button or automatic alerts (triggered by anomalies or geo-fence breaches) notify authorities and contacts instantly.
+
+By integrating text, voice, GPS, and blockchain data, Humsafar ensures smart, real-time protection and situational awareness for travellers.
 
 ## Prerequisites
 
